@@ -157,7 +157,7 @@ body{
      }
 ```
 ```js
-No  js yet
+No js yet
 ```
 
 ### Continued development
@@ -167,10 +167,9 @@ I am curious about completing more projects for better experience and learn JS a
 ### Useful resources
 
 
-- [Resource](https://www.freecodecamp.org/learn/2022/responsive-web-design/) - This is an amazing article which helped me finally understand semantic tags and media queries for responsive design. I'd recommend it to anyone still learning Responsive Design.
+- [Freecodecamp](https://www.freecodecamp.org/learn/2022/responsive-web-design/) - This is an amazing article which helped me finally understand semantic tags and media queries for responsive design. I'd recommend it to anyone still learning Responsive Design.
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
 - Frontend Mentor - [@Olivier@123](https://www.frontendmentor.io/profile/Olivier2-prog)
 
 
