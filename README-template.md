@@ -27,8 +27,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here]([https://your-solution-url.com](https://github.com/Olivier2-prog/QRCode)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github Link]([https://your-solution-url.com](https://github.com/Olivier2-prog/QRCode)
+- Live Site URL: [Netfly link]([https://your-live-site-url.com](https://timely-nasturtium-57a39b.netlify.app)
 
 ## My process
 
@@ -37,13 +37,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
 - Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
-
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
+- [Styled Components]([https://styled-components.com/](https://fonts.google.com) - For styles
 
 ### What I learned
 
